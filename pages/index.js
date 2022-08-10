@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Bienvenido a Statologos!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Statologos Study es la mejor guía de estudio de estadísticas en línea que lo ayuda a comprender todos los conceptos básicos que se enseñan en cualquier curso de estadística elemental y le facilita la vida como estudiante.
         </p>
       </main>
 
